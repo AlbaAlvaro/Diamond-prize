@@ -14,8 +14,6 @@ The project has three folders:
 ## Steps followed
 1. **Cleaning** of the dataset: see the correlation beteen the different variables and drop different ones to see how it affect the model, make the dummies of the categorical data.
 
-standardize 
-
 2. Divide the data in the train dataset into train and test.
 
 3. Train the following **models** with this data and check the models with the r2 score and the RMSE as well as optimize several models using GridSearchCV
